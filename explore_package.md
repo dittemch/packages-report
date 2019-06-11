@@ -1,7 +1,7 @@
 explore\_package.R
 ================
 dich9390
-Tue Jun 11 10:13:39 2019
+2019-06-11
 
 ``` r
 .libPaths()
