@@ -1,4 +1,5 @@
 #'---
+#'date: "`r format(Sys.Date())`"
 #'output: github_document
 #'---
 
