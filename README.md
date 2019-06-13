@@ -7,3 +7,5 @@ I added this line from github
 hej
 
 another change
+
+lets mess github up by changing locally and remotely in the same file
