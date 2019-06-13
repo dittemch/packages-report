@@ -14,3 +14,5 @@ ipt <- installed.packages() %>%
   select(Package,LibPath,Version,Priority,Built)
 
 head(ipt,5)
+
+#a change made from github while you wrote on your computer
