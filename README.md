@@ -8,4 +8,5 @@ hej
 
 another change
 
-lets mess github up by changing locally and remotely in the same file
+lets mess github up by changing locally and remotely in the same file (but maybe it will work out anyway?)
+a change in the same file remotely!!!! (if we merge locally)
